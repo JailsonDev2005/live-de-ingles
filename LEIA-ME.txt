@@ -1,0 +1,17 @@
+LANDING PAGE — ENGLISH WITH PATRICIA
+
+Como visualizar:
+1. Extraia a pasta do arquivo ZIP.
+2. Abra a pasta no Visual Studio Code.
+3. Abra o arquivo index.html no navegador (ou use a extensão Live Server).
+
+IMPORTANTE:
+No arquivo index.html, procure pelos links com class="button ... tiktok-link".
+Substitua href="#" pelo endereço correto do perfil da Patricia no TikTok.
+A página está configurada para informar as lives às 20h.
+
+Arquivos:
+- index.html: estrutura da página
+- style.css: aparência e responsividade
+- script.js: atualização do ano no rodapé
+- assets/patricia.jpg: foto enviada
